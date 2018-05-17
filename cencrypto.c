@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 
 	if(argc != 3) {
 		printf("Two arguments expected.\n");
-		printf("cencrypto <input file> <output file>\n");
+		printf("./cencrypto <input file> <output file>\n");
 		exit(1);
 	}
 
